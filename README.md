@@ -5,3 +5,4 @@ Many of the notebooks are written using the algorithms given in <i>Digital Image
 | -------- |
 | [Edge Detection](https://github.com/TheNova22/Digital-Image-Processing/tree/main/Sharpening/Gradient) |
 | [Transformation](https://github.com/TheNova22/Digital-Image-Processing/tree/main/Transformation) |
+| [Smoothening](https://github.com/TheNova22/Digital-Image-Processing/tree/main/Smoothening) |
